@@ -17,4 +17,4 @@ docker run -d --name streamlit -p 8501:8501  streamlit
 ```
 
 ### Sample image
-<img width="405" alt="image" src="https://github.com/wldud01/Gemma_code_explaination/assets/64887559/896db396-69a5-43db-acfb-c2d973390586">
+<img width="200" alt="image" src="https://github.com/wldud01/Gemma_code_Assistant/assets/64887559/ec1fb0fa-4423-4ed7-8f26-c239af4398a7">
